@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+    margin:0;
+   /* background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-image: url(https://www.worldnews24x7.tv/wp-content/uploads/2021/07/web-logonew.png);
+    */
+}
