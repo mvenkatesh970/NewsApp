@@ -2,7 +2,7 @@
 Capstone project by Group 1(Java FSD Batch 47-A).
 
 ## Members
-Venkatesh Macharla,Shivansh Mathur ,Bhagyasri Mathe, Pola Shiva danush
+Venkatesh Macharla,Shivansh Mathur ,Bhagyashri Matthe, Pola Shiva danush
 
 # Usage
 
